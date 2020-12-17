@@ -24,6 +24,7 @@ The data format of the LiDAR point cloud follows the format of the [Oxford Radar
 
 ## Download 
 Please download the dataset from the Google Drive (15.0 GB in total).
+[[Dataset]](https://drive.google.com/file/d/1X1kGrncnGcldGM5EzujFDDhdlBiasv1q/view?usp=sharing)
 
 ## Citation
 If you use this dataset in your research, please cite the following paper:
